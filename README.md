@@ -6,3 +6,9 @@
 <br/>
 <br/>
 - [TODO](#todo)
+
+# TODO
+## Functionalities
+
+-   [ ] google search console
+-   [x] DNS
