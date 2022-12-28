@@ -20,9 +20,9 @@
 
 # References
 
-- 將網頁登錄至 Google 搜尋引擎
-https://jerrynest.io/add-page-google/comment-page-1/#comments
-<br/>
+- [將網頁登錄至 Google 搜尋引擎](https://jerrynest.io/add-page-google/comment-page-1/#comments)
+
+- [google搜尋引擎運作原理](https://www.sun-exp.com/blog01?id=11)
 <br/>
 
 ## Functionalities
