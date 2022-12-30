@@ -1,11 +1,14 @@
 # Hung Fu Engineering Co.,Ltd.
 ![image](https://user-images.githubusercontent.com/95430501/209788781-b8066a3c-c6da-4775-b5da-d33c9aa7850a.png)
-<br/>
-<br/>
+
 🔗Website URL: https://www.hungfu.gq/
 <br/>
 <br/>
-- [TODO](#todo)
+- [TODO](#TODO)
+- [schedule](#schedule)
+- [References](#References)
+- 
+- [Functionalities](#Functionalities)
 
 # TODO
 ## schedule
@@ -18,7 +21,7 @@
 <br/>
 <br/>
 
-# References
+## References
 
 - [將網頁登錄至 Google 搜尋引擎](https://jerrynest.io/add-page-google/comment-page-1/#comments)
 
