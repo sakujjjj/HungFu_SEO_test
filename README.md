@@ -35,3 +35,6 @@
 <br/>
 
 ## Functionalities
+關鍵字排名
+https://www.serprobot.com/serp-check
+![image](https://user-images.githubusercontent.com/95430501/210848197-706757dc-000c-4555-bd79-d881f9aa186f.png)
