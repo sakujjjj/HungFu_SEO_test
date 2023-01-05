@@ -16,7 +16,13 @@
 -   [x] 購買網域,設定DNS
 -   如沒購買網域,github page網頁無法編入索引
 -   已購買網域,網址審查中...
--   [ ] 運用google search console登錄至Google 搜尋引擎
+-   [x] 運用google search console登錄至Google 搜尋引擎
+-   開始嘗試在關鍵字上搜尋的到網址
+-   [ ] SEO優化
+-   [ ] 部屬到AWS
+-   [ ] 架設會員系統
+-   [ ] LINE BOT
+-   [ ] TSMC自動填單
 
 <br/>
 <br/>
