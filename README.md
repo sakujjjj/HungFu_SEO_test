@@ -16,7 +16,15 @@
 -   [x] 購買網域,設定DNS
 -   如沒購買網域,github page網頁無法編入索引
 -   已購買網域,網址審查中...
--   [ ] 運用google search console登錄至Google 搜尋引擎
+-   [x] 運用google search console登錄至Google 搜尋引擎
+-   開始嘗試在關鍵字上搜尋的到網址
+-   [ ] SEO優化
+-   [ ] 部屬到AWS
+-   [ ] 架設會員系統
+-       [ ] 一般員工使用(打卡,請假,查詢個人請假紀錄,google登入)
+-       [ ] 雇主後台管理(打卡,請假,入廠登記,查詢所有人打卡,查詢所有人請假)
+-   [ ] LINE BOT
+-   [ ] TSMC自動填單
 
 <br/>
 <br/>
@@ -29,3 +37,6 @@
 <br/>
 
 ## Functionalities
+關鍵字排名
+https://www.serprobot.com/serp-check
+![image](https://user-images.githubusercontent.com/95430501/210848197-706757dc-000c-4555-bd79-d881f9aa186f.png)
