@@ -1,0 +1,13 @@
+nav_Mobile {
+    display: none;
+}
+
+@media screen and (max-width: 600px) {
+    nav {
+        display: none;
+    }
+
+    nav_Mobile {
+        display: block;
+    }
+}
